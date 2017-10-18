@@ -1,0 +1,29 @@
+body {
+    background-color: coral;
+    align-content: center;
+    text-align: center;
+    border-bottom: goldenrod;
+    border-top-color: goldenrod;
+    
+}
+br{
+    color: brown;
+}
+
+h3{
+    color: white;
+    font-family: 'Nosifer';
+}
+
+h1{
+    font-family: 'Nosifer';
+    color: goldenrod
+}
+img{
+    block-size: 200px;
+}
+
+.redditContent{
+    align-content: center;
+    text-align: center;
+}
