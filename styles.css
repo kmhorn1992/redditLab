@@ -1,5 +1,5 @@
 body {
-    background-color: coral;
+    background-color:black;
     align-content: center;
     text-align: center;
     border-bottom: goldenrod;
@@ -11,8 +11,8 @@ br{
 }
 
 h3{
-    color: white;
-    font-family: 'Nosifer';
+    color: coral;
+   
 }
 
 h1{
